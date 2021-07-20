@@ -2,7 +2,7 @@
 
 I'm a student majoring in statistics, interested in data science, programming, and anything about technology. Still want to learn a lot and have not mastered many things.
 
-#### Learn: Python/SPSS/R/HTML/CSS/JS
+#### Learn: Python/R/HTML/CSS/JS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=profjrmalik&theme=blue-green&show_icons=true)
 
