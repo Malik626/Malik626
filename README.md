@@ -1,9 +1,8 @@
-## Hi there 👋, my name is Prasetyo
-#### I am interested in data science and programming
+## Hello world! My name is Prasetyo
 
-I am a student majoring in statistics interested in data science, programming, and anything about technology. Still want to learn a lot and have not mastered many things.
+I'm a student majoring in statistics, interested in data science, programming, and anything about technology. Still want to learn a lot and have not mastered many things.
 
-Learn: Python/SPSS/R/C++/HTML/CSS/JavaScript
+#### Learn: Python/SPSS/R/HTML/CSS/JS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Malik626&show_icons=true)  
 
